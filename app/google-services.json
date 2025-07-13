@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "360979103336",
+    "project_id": "collegeapp-392cc",
+    "storage_bucket": "collegeapp-392cc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360979103336:android:76f27bf09f048581d105dd",
+        "android_client_info": {
+          "package_name": "com.example.collegeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-f4EcaHXd4UQYdxMaLEJuqocL9gD_iN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360979103336:android:1fc6d839ead38302d105dd",
+        "android_client_info": {
+          "package_name": "com.nsrit.CollegeApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-f4EcaHXd4UQYdxMaLEJuqocL9gD_iN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
